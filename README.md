@@ -1,5 +1,12 @@
 # Hi there 👋
 
+<p align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7D71D&width=435&lines=Hi+There!+👋;I'm+a+Developer.;I+love+coding!+💻">
+  </a>
+</p>
+
+
 ## 🚀 About Me
 I'm a passionate **Full Stack Developer** who loves exploring new technologies and building innovative projects. 
 
