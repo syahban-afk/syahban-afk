@@ -41,4 +41,4 @@ I'm a passionate **Full Stack Developer** who loves exploring new technologies a
 
 ## 📫 How to reach me
 - Email: [syahbansyahputrati@gmail.com](mailto:syahbansyahputrati@gmail.com)
-- LinkedIn: [LinkedIn Profile](https://linkedin.com/in/)
+- LinkedIn: [Syahban Syaputra](https://www.linkedin.com/in/syahban-syahputra-6b63bb333/)
