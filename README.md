@@ -1,14 +1,15 @@
 # Hi there 👋
 
-<p align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7D71D&width=435&lines=Hi+There!+👋;I'm+a+Developer.;I+love+coding!+💻">
-  </a>
-</p>
+<br>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=36&pause=1000&color=F7D71D&center=true&vCenter=true&width=1000&lines=I'm+Syahban+Syaputra;Welcome+To+My+GitHub+Profile!;I'm+Web+Developer+Enthusiast+%F0%9F%92%BB)](https://git.io/typing-svg)
+
+<br>
 
 ## 🚀 About Me
 I'm a passionate **Full Stack Developer** who loves exploring new technologies and building innovative projects. 
+
+<br>
 
 ## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -29,10 +30,14 @@ I'm a passionate **Full Stack Developer** who loves exploring new technologies a
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+<br>
+
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syahban-afk&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syahban-afk&layout=compact&theme=dark)
+
+<br>
 
 ## 📫 How to reach me
 - Email: [syahbansyahputrati@gmail.com](mailto:syahbansyahputrati@gmail.com)
