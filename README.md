@@ -32,6 +32,8 @@ I'm a passionate **Full Stack Developer** who loves exploring new technologies a
 ![Blazor Badge](https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=fff)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff)
 ![.ENV Badge](https://img.shields.io/badge/.ENV-ECD53F?logo=dotenv&logoColor=000&)
+![Apache Guacamole Badge](https://img.shields.io/badge/Apache%20Guacamole-578B34?logo=apacheguacamole&logoColor=fff&style=flat)
+![Apache Guacamole Badge](https://img.shields.io/badge/Apache%20Guacamole-578B34?logo=apacheguacamole&logoColor=fff&style=flat-square)
 
 
 <br>
