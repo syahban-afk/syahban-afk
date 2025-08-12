@@ -29,7 +29,7 @@ I'm a passionate **Full Stack Developer** who loves exploring new technologies a
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![.NET Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=flat)
-![Blazor Badge](https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=fff&style=flat)
+![Blazor Badge](https://img.shields.io/badge/Blazor-512BD4?wlogo=blazor&logoColor=fff&style=flat)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
 ![.ENV Badge](https://img.shields.io/badge/.ENV-ECD53F?logo=dotenv&logoColor=000&&style=flat)
 ![Apache Guacamole Badge](https://img.shields.io/badge/Apache%20Guacamole-578B34?logo=apacheguacamole&logoColor=fff&style=flat)
